@@ -1,0 +1,59 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta Posca",
+      "price": 29.54
+    },
+    {
+      "id": 2,
+      "name": "Marcador Stabilo Boss",
+      "price": 10.81
+    },
+    {
+      "id": 3,
+      "name": "Caneta Stabilo Brush - Estojo com 12",
+      "price": 217.6
+    },
+    {
+      "id": 4,
+      "name": "Display Edição Especial Stabilo Boss - 23 cores",
+      "price": 277.57
+    },
+    {
+      "id": 5,
+      "name": "Estojo Stabilo Pen 68 Arty - Ponta Grossa, 25 cores",
+      "price": 270.78
+    },
+    {
+      "id": 6,
+      "name": "Marcador Artístico CIS GRAF",
+      "price": 12.96
+    },
+    {
+      "id": 7,
+      "name": "Bloco de Lettering by Karol Stefanini - A4, 180g/m²",
+      "price": 22
+    },
+    {
+      "id": 8,
+      "name": "Bloco Planner e Bullet Journal Karol Stefanini - A4, 180g/m²",
+      "price": 22
+    },
+    {
+      "id": 9,
+      "name": "Borracha Artística Lyra - Maleável, Profissional",
+      "price": 9.87
+    },
+    {
+      "id": 10,
+      "name": "Washi Tape Mickey e Minnie Love",
+      "price": 18.07
+    },
+    {
+      "id": 11,
+      "name": "Kit de Lápis com mina de Carvão - Inclui 1 esfuminho",
+      "price": 34.19
+    }
+  ]
+}
