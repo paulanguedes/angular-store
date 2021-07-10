@@ -22,6 +22,10 @@ import { HomeComponent } from './views/home/home.component';
 import { ProductCrudComponent } from './views/product-crud/product-crud.component';
 import { ProductCreateComponent } from './components/product/product-create/product-create.component';
 import { ProductReadComponent } from './components/product/product-read/product-read.component';
+import { ProductReadTableComponent } from './components/product/product-read-table/product-read-table.component';
+import { MatTableModule } from '@angular/material/table';
+import { MatPaginatorModule } from '@angular/material/paginator';
+import { MatSortModule } from '@angular/material/sort';
 
 @NgModule({
   declarations: [
@@ -32,7 +36,8 @@ import { ProductReadComponent } from './components/product/product-read/product-
     HomeComponent,
     ProductCrudComponent,
     ProductCreateComponent,
-    ProductReadComponent
+    ProductReadComponent,
+    ProductReadTableComponent
   ],
   imports: [
     BrowserModule,
@@ -47,7 +52,10 @@ import { ProductReadComponent } from './components/product/product-read/product-
     FormsModule,
     MatFormFieldModule,
     MatInputModule,
-    HttpClientModule
+    HttpClientModule,
+    MatTableModule,
+    MatPaginatorModule,
+    MatSortModule
   ],
   providers: [],
   bootstrap: [AppComponent]
