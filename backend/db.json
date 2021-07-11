@@ -2,13 +2,13 @@
   "products": [
     {
       "id": 1,
-      "name": "Caneta Posca",
+      "name": "Caneta Posca (várias cores)",
       "price": 29.54
     },
     {
       "id": 2,
       "name": "Marcador Stabilo Boss",
-      "price": 10.81
+      "price": "10.89"
     },
     {
       "id": 3,
