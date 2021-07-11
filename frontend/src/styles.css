@@ -10,3 +10,13 @@ body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; padding-bot
 .v-middle {
   vertical-align: middle;
 }
+
+.msg-success {
+  background-color: rgb(207, 255, 162);
+  color: black;
+}
+
+.msg-error {
+  background-color: rgb(255, 183, 190);
+  color: black;
+}
