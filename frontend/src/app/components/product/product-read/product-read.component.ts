@@ -1,6 +1,6 @@
 import { AfterViewInit, Component, OnInit, ViewChild } from '@angular/core';
 import { MatTable } from '@angular/material/table';
-import { ProductReadTableDataSource } from '../product-read-table/product-read-table-datasource';
+import { ProductReadTableDataSource } from './product-read-table-datasource';
 import { Product } from '../product.model';
 import { ProductService } from '../product.service';
 
