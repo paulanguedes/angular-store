@@ -54,6 +54,11 @@
       "id": 11,
       "name": "Kit de Lápis com mina de Carvão - Inclui 1 esfuminho",
       "price": 34.19
+    },
+    {
+      "name": "Cola em Bastão - Tilibra - 8g Transparente Colorida",
+      "price": "5.90",
+      "id": 12
     }
   ]
 }
