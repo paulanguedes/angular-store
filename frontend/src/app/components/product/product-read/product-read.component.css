@@ -1,3 +1,16 @@
 .full-width-table {
   width: 100%;
 }
+
+.edit {
+  color: rgb(255, 183, 190);
+  margin-right: 10px;
+}
+
+.delete {
+  color:rgb(226, 50, 68);
+}
+
+.action {
+  text-align: center;
+}
