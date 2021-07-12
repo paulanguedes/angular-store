@@ -2,7 +2,8 @@
 
 # Angular Store Papelaria
 
-Aplicação desenvolvida no curso [Angular 9](https://www.cod3r.com.br/courses/angular-9-essencial) da [Cod3r](https://www.cod3r.com.br/). Desenvolvido com **JSON Server** como back-end e **Angular** no front-end .
+Aplicação desenvolvida no curso [Angular 9](https://www.cod3r.com.br/courses/angular-9-essencial) da [Cod3r](https://www.cod3r.com.br/). Desenvolvido com **JSON Server** como back-end e **Angular** no front-end.
+Fiz um vídeo bem curto de como ficou a aplicação. Veja [aqui](https://www.loom.com/share/c60d2c03baa541ffafa00e823e0999ba).
 
 [`Descrição`](#Descrição) | [`Funcionalidades`](#Funcionalidades) | [`Execução`](#Execução) | [`Pré-requisitos`](#Pré-requisitos) | [`Autoria`](#Autoria)
 
