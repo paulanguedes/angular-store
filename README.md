@@ -1,4 +1,4 @@
-![Logo papelaria](/assets/logoAngularStore.png)
+![Logo papelaria](frontend/src/assets/logoAngularStore.png)
 
 # Angular Store Papelaria
 
