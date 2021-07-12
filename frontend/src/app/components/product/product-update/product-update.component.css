@@ -4,6 +4,18 @@ form {
   margin-top: 24px;
 }
 
+.card-title {
+  padding: 16px 0 16px 0;
+}
+
 button {
   margin: 16px 16px 0 0;
+}
+
+.update {
+  background-color: #D81B60;
+}
+
+.cancel {
+  background-color: #8b00dd;
 }

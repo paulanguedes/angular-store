@@ -3,6 +3,18 @@ form {
   flex-direction: column;
 }
 
+.card-title {
+  padding: 16px 0 16px 0;
+}
+
 button {
   margin: 16px 16px 0 0;
+}
+
+.cancel {
+  background-color: #D81B60;
+}
+
+.submit {
+  background-color: #8b00dd;
 }

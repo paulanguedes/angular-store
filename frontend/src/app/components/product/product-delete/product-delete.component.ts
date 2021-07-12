@@ -2,6 +2,7 @@ import { Component, OnInit } from '@angular/core';
 import { ActivatedRoute, Router } from '@angular/router';
 import { Product } from '../product.model';
 import { ProductService } from '../product.service';
+import { MatDialog, MatDialogRef, MAT_DIALOG_DATA } from '@angular/material/dialog';
 
 @Component({
   selector: 'app-product-delete',
@@ -16,6 +17,7 @@ export class ProductDeleteComponent implements OnInit {
     private productService: ProductService,
     private router: Router,
     private route: ActivatedRoute,
+    public dialog: MatDialog,
   ) { }
 
   ngOnInit(): void {

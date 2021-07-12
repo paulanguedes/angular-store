@@ -1,16 +1,28 @@
 .home .title {
-  font-size: 3rem;
-  font-weight: 300;
-  color: black;
+  font-size: 2rem;
+  text-align: center;
+  font-weight: 400;
+  color: white;
   line-height: 1.2;
 }
 
 .home .subtitle {
-  font-size: 1.1rem;
-  color: black;
+  font-size: 1.2rem;
+  text-align: center;
+  color: white;
   line-height: 1.2;
 }
 
 .home {
-  background-color: rgb(255, 183, 190);
+  background-color: #8b00dd;
+}
+
+.home-picture {
+  width: 100%;
+  margin-top: 16px;
+}
+
+.picture {
+  width: 100%;
+  border-radius: 4px;
 }

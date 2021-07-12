@@ -29,6 +29,7 @@ import { MatPaginatorModule } from '@angular/material/paginator';
 import { MatSortModule } from '@angular/material/sort';
 import { ProductUpdateComponent } from './components/product/product-update/product-update.component';
 import { ProductDeleteComponent } from './components/product/product-delete/product-delete.component';
+import { MatDialogModule } from '@angular/material/dialog';
 
 registerLocaleData(localePt);
 
@@ -61,7 +62,8 @@ registerLocaleData(localePt);
     HttpClientModule,
     MatTableModule,
     MatPaginatorModule,
-    MatSortModule
+    MatSortModule,
+    MatDialogModule
   ],
   providers: [{
     provide: LOCALE_ID,

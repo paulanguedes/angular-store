@@ -1,5 +1,10 @@
 <mat-card>
-  <mat-card-title>New product</mat-card-title>
+
+  <div class="card-title">
+    <mat-card-title>
+      New product
+    </mat-card-title>
+  </div>
 
   <form>
     <mat-form-field>
@@ -11,11 +16,11 @@
     </mat-form-field>
   </form>
 
-  <button mat-raised-button (click)="createProduct()" color="accent">
+  <button mat-raised-button (click)="createProduct()" class="submit">
     Submit
   </button>
 
-  <button mat-raised-button (click)="cancel()" color="warn">
+  <button mat-raised-button (click)="cancel()" class="cancel">
     Cancel
   </button>
 </mat-card>

@@ -1,5 +1,10 @@
 <mat-card>
-  <mat-card-title>Delete product confirmation</mat-card-title>
+
+  <div class="card-title">
+    <mat-card-title>
+      Delete product
+    </mat-card-title>
+  </div>
 
   <form>
     <mat-form-field>
@@ -11,11 +16,11 @@
     </mat-form-field>
   </form>
 
-  <button mat-raised-button (click)="deleteProduct()" color="warn">
+  <button mat-raised-button (click)="deleteProduct()" class="delete">
     Delete
   </button>
 
-  <button mat-raised-button (click)="cancel()" color="primary">
+  <button mat-raised-button (click)="cancel()" class="cancel">
     Cancel
   </button>
 </mat-card>
